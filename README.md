@@ -1,7 +1,7 @@
 # my_qwen_clone
 Here I tried to teach qwen2.5-3B to chat like I do. 
 
-You may find the notebooks hard to replicate given data is not present. I hid is as the model is trained on my personal data.
+You may find the notebooks hard to replicate given data is not present. I hid it as the model is trained on my personal data.
 
 First qwen fine-tune check-point: https://drive.google.com/drive/folders/1XhSCATin0mojkmgkL6U7G-zmeseAQCYt?usp=sharing
 ```
